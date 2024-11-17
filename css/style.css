@@ -1,0 +1,16 @@
+
+body{
+    margin-top: 50px;
+}
+.h1-container{
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+    font-weight: 500;
+}
+.quote,
+.author{
+    font-size: 36px;
+}
